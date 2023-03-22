@@ -1,0 +1,1 @@
+{ "directory": "/home/anselda/Documents/projects/c++/test", "file": "src/main.cpp", "output": "test.o", "arguments": ["/usr/lib/llvm-15/bin/clang", "-xc++", "src/main.cpp", "-o", "test.o", "--driver-mode=g++", "-Wall", "-std=c++11", "-c", "--target=x86_64-pc-linux-gnu"]},
